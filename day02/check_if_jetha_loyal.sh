@@ -22,4 +22,4 @@ fi
 }
 
 # This is function call
-is_loyal "tom"
+is_loyal "kanha"
