@@ -2,8 +2,8 @@
 
 # This is script for TWS
 
-echo "TWS: Hello Dosto"
+echo " hii i'm kanha "
 
-echo "Learners: DevOps Wale bhaiya , hum toh comment karenge"
+echo "i'm learning shell scripting "
 
-echo "TWS: Toh dosto, like bhi kar do"
+echo "This script is created by kanha "
