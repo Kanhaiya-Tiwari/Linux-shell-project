@@ -33,7 +33,6 @@ Usage and details about what this script does:
 ```
 
 ## Project Structure
-```
 Linux-shell-project/
 ├── scripts/
 │   ├── script.sh
@@ -49,7 +48,5 @@ Linux-shell-project/
 ## Resources
 - [Bash Scripting Guide](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)  
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
-
----
 
 **Last Updated on: 2026-02-28 12:28:54 UTC**
